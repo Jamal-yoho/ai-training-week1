@@ -1,2 +1,1 @@
-# ai-training-week1
-Python and Git training tasks
+# Gen AI and ML Training
